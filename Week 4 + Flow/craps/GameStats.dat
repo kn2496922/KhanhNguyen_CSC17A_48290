@@ -1,0 +1,20 @@
+Total time to play these Games in integer seconds = 0
+Total number of Games = 32760
+Roll     Wins     Losses
+   2         0       949
+   3         0      1762
+   4       920      1834
+   5      1488      2144
+   6      2028      2457
+   7      5564         0
+   8      2006      2529
+   9      1438      2193
+  10       918      1805
+  11      1823         0
+  12         0       902
+Total wins and losses = 32760
+Percentage wins       = 49.40%
+Percentage losses     = 50.60%
+Maximum number of throws in a game = 32
+Average throw per game=3.39
+Ratio of Longest to shortest game = 10^1.51
